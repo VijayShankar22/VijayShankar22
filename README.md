@@ -11,8 +11,6 @@ I'm a passionate coder and a cybersecurity enthusiast. Currently, I'm pursuing m
 - 📚 Currently pursuing B.Tech in Computer Science with a focus on Cybersecurity.
 - 🏫 Studying at GLA UNIVERSITY MATHURA.
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshankar22&layout=compact&theme=dark)
-
 ## How to Reach Me
 You can reach out to me through the following channels:
 
