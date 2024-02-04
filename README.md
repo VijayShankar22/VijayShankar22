@@ -6,7 +6,7 @@ I'm a passionate coder and a cybersecurity enthusiast. Currently, I'm pursuing m
 
 - 👀 I'm deeply interested in coding and cybersecurity, and I'm always eager to learn and explore new technologies.
 - 🌱 I'm currently a student, so I'm constantly expanding my knowledge and skills to become proficient in the world of cybersecurity.
-- 👨‍💻 I have a basic to intermediate understanding of programming languages such as Python, C++, HTML, and PHP as of now.
+- 👨‍💻 I know  programming languages such as Python, C++, HTML, and PHP.
 - 📬 Feel free to connect for collaborations, tech discussions, or just to say hello! 
 ## My Academic Journey
 - 📚 Currently pursuing B.Tech in Computer Science with a focus on Cybersecurity.
